@@ -1,7 +1,7 @@
 {
-  "name": "gmail-extension-server",
+  "name": "aha-asana-importer-server",
   "version": "1.0.0",
-  "repository": "https://sorza-jimmy@github.com/sorza-jimmy/gmail-extension-server.git",
+  "repository": "https://sorza-jimmy@github.com/sorza-jimmy/aha-asana-importer-server.git",
   "author": "Jimmy Sorza <sorza.jimmy05@gmail.com>",
   "license": "MIT",
   "main": "./build/server.js",

@@ -1,7 +1,7 @@
 import { Connection, createConnection, getConnection } from 'typeorm';
 
 export const getDbConnection = async (): Promise<Connection> => {
-  const name = process.env.DB_NAME || 'gmail_ext';
+  const name = process.env.DB_NAME || 'aha_ext';
   try {
     return getConnection(name);
   } catch {

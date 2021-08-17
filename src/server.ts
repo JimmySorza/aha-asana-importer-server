@@ -10,7 +10,7 @@ const port = process.env.PORT || 8000;
 getDbConnection()
   .then(async (conn) => {
     await conn.runMigrations();
-    app.listen(port, () => console.log(`Gmail Server is listening at http://localhost:${port}`));
+    app.listen(port, () => console.log(`Asana Extension Server is listening at http://localhost:${port}`));
   })
   .catch((error) => {
     console.error(error);

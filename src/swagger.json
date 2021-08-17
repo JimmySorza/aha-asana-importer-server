@@ -50,7 +50,7 @@
 		}
 	},
 	"info": {
-		"title": "gmail-extension-server",
+		"title": "aha-asana-importer-server",
 		"version": "1.0.0",
 		"license": {
 			"name": "MIT"

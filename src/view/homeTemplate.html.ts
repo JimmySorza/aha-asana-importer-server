@@ -6,11 +6,11 @@ export default `<!doctype html>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Gmail Extension Server</title>
-    <meta name="description" content="Gmail Extension Server">
+    <title>Aha Asana Extension Server</title>
+    <meta name="description" content="Aha Asana Extension Serverr">
     <meta name="author" content="SitePoint">
 
-    <meta property="og:title" content="Gmail Extension Server">
+    <meta property="og:title" content="Aha Asana Extension Server">
     <meta property="og:type" content="website">
 
     <style>
@@ -39,7 +39,7 @@ export default `<!doctype html>
 
 <body>
     <div class="success">
-        <h1>Gmail Extension Server</h1>
+        <h1>Aha Asana Extension Server</h1>
         <a href="/docs">API Details</a>
     </div>
 
