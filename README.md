@@ -65,3 +65,4 @@ yarn start or npm start
 ## Notes
 
 - Tsoa doesn't like `Omit<>`. Use `Pick<>` instead, even if more verbose
+ 
