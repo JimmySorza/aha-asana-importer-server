@@ -1,6 +1,4 @@
 # aha-asana-importer-server
-
-
 Aha Asana Import Extension Backend
 
 ## Set up Configuration
